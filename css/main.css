@@ -1,0 +1,26 @@
+/* GENERAL STYLES */
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', 'Helvetica', 'Arial', 'sans-serif';
+    font-size: 14px;
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+body{
+    background-color: #f3f3f3;
+    max-width: 1200px;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.slider img{
+    width: 100%;
+}
